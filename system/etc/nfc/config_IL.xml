@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="EUC-KR" standalone="no" ?>
+<Configure>
+    <!--
+    OPEN_IL ( Open / Israel )
+    -->
+    <Config operator="" country="IL" device="">
+    </Config>
+    <!--
+    ORI_IL( /Israel)
+    -->
+    <Config operator="ORI" country="IL" device="">
+        <DefaultOnOffType> offp2p </DefaultOnOffType>
+    </Config>
+    <!--
+    CCM_IL( /Israel)
+    -->
+    <Config operator="CCM" country="IL" device="">
+        <DefaultOnOffType> offp2p </DefaultOnOffType>
+        <DefaultOnOffType targetdevice="pplus"> oncardrwp2p </DefaultOnOffType>
+    </Config>
+</Configure>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="EUC-KR" standalone="no" ?>
+<Configure>
+    <Config operator="" country="HK" device="">
+    </Config>
+    <!-- HK -->
+    <Config operator="OPEN" country="HK" device="g3">
+<!--        <NxpConfigFileName> libnfc-nxp-hk.conf </NxpConfigFileName>  -->
+    </Config>
+
+    <Config operator="OPEN" country="HK" device="">
+         <NxpConfigFileName model="LG-H815"> libnfc-nxp-hk-815.conf </NxpConfigFileName>
+         <NxpConfigFileName model="LG-H815T"> libnfc-nxp-hk-815.conf </NxpConfigFileName>
+         <NxpConfigFileName model="LG-H818N"> libnfc-nxp-hk-818.conf </NxpConfigFileName>
+         <NxpConfigFileName model="LG-D722"> libnfc-nxp-hk-d722k.conf </NxpConfigFileName>
+         <NxpConfigFileName model="LG-D722k"> libnfc-nxp-hk-d722k.conf </NxpConfigFileName>
+         <NxpConfigFileName model="LG-H735T"> libnfc-nxp-hk-h735t.conf </NxpConfigFileName>
+    </Config>
+</Configure>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <array name="concierge_settings_items">
+        <item>@array/memories_card</item>
+    </array>
+    <array name="memories_card">
+         <item>"card_settings_apps"</item>
+        <item>@string/card_setting_apps</item>
+        <item>"concierge_memories"</item>
+        <item>@string/cs_memories_title</item>
+        <item>@string/cs_memories_setting</item>
+        <item>@raw/concierge_setting</item>
+    </array>
+
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="dyk_ugc_camera_gesture_title">"Hand gesture shot"</string>
+	<string name="dyk_ugc_camera_gesture_desc">"Take photos using simple hand gestures"</string>
+	
+    <string name="dyk_ugc_camera_tap_shot_title">"Tap shot"</string>
+    <string name="dyk_ugc_camera_tap_shot_desc1">Tap anywhere on the screen to take a photo</string>
+
+    <string name="camera_help_manual_camera_title">Manual Camera Mode</string>
+    <string name="dyk_ugc_camera_manual_desc1">Control how photos are taken</string>
+
+    <string name="camera_help_manual_video_title">Manual Video Mode</string>
+    <string name="camera_tips_manual_video_desc">Take full control\nof the video you record</string>
+
+    <string name="camera_help_snap_mode_title">Snap Video Mode</string>
+    <string name="camera_tips_snap_video_desc">Put your story together\ninto a short film</string>
+
+    <string name="camera_help_multiview_title">Multi-View Recording</string>
+    <string name="camera_tips_multiview_desc" translatable="false">Capture the whole moment around you\nwith three cameras</string>
+
+	<string name="sp_quicksettings_remote_control_NORMAL">"QRemote"</string>
+	<string name="dyk_ugc_qremote_always_home_desc">"Set QRemote to start automatically at home"</string>
+
+	<string name="sp_quicksettings_remote_control_global_NORMAL">"QuickRemote"</string>
+	<string name="dyk_ugc_qremote_always_home_desc_global">"Set QuickRemote to start automatically at home"</string>
+
+	<string name="sp_title_dual_window_NORMAL">"Dual window"</string>
+	<string name="dyk_ugc_dual_window_select_desc">"Use two apps at the same time on one screen"</string>
+	
+	<string name="gesture_title_turn_screen_on">"KnockON"</string>
+	<string name="dyk_ugc_gesture_knock_on_desc">"Double-tap to turn screen on or off"</string>
+	
+	<string name="gesture_knockon_answerme">"Answer me"</string>
+	<string name="dyk_ugc_gesture_incoming_call_desc">"Receive phone calls without tapping Call"</string>
+	
+	<string name="dyk_ugc_keyboard_move_cursor_title">"Move cursor"</string>
+	<string name="dyk_ugc_keyboard_move_cursor_desc">"Touch and hold space bar to move cursor"</string> 
+
+	<string name="dyk_ugc_keyboard_suggested_word_title">"Word suggestion"</string>
+	<string name="dyk_ugc_keyboard_suggested_word_desc">"Swipe keyboard to enter words"</string> 
+	
+	<string name="display_home_touch_buttons">"Home touch buttons"</string>
+	<string name="dyk_ugc_navigationbar_desc">"Drag an icon to rearrange the Home touch buttons"</string>  	
+	 	 
+    <string name="dyk_ugc_lg_backup_title" translatable="false">"LG Backup"</string>
+    <string name="app_name_LG_Backup">"LG Backup"</string>
+	<string name="dyk_ugc_lg_backup_desc">"Back up phone settings and data as is"</string>
+
+    <string name="dyk_acr_card_title">"Compose ringtones"</string>
+    <string name="dyk_acr_card_desc">"based on phone number of incoming call"</string>
+	
+    <string name="fingerprints_card_title">"Fingerprints"</string>
+    <string name="fingerprints_card_desc">"Use your fingerprint to unlock the screen or see locked content"</string>
+
+    <string name="dyk_signboard_card_title">"Second screen"</string>
+    <string name="dyk_signboard_card_desc">"Experience two screens for something new"</string>
+</resources>

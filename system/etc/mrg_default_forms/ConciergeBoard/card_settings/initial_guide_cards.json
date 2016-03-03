@@ -1,0 +1,37 @@
+{
+	"initial_cards" : [
+		{
+			"card":"initial_guide_my_concierge",
+			"eulaAcceptance":true,
+			"featuring":{
+				"ro.build.characteristics.exclude":["tablet"]			
+				}
+		},
+		{
+			"card":"initial_guide_my_concierge_tablet",
+			"eulaAcceptance":true,
+			"featuring":{
+				"ro.build.characteristics.include":["tablet"]				
+				}
+		},
+		{
+			"card":"initial_guide_lgbackup",
+			"eulaAcceptance":true,
+			"featuring":{
+				}
+		},
+		{
+			"card":"initial_guide_ime_korean_layout",
+			"eulaAcceptance":true,
+			"featuring":{
+				}
+		}
+	],
+	"order" : [ 
+				"initial_guide_my_concierge",
+				"initial_guide_my_concierge_tablet",
+				"initial_guide_lgbackup",
+				"initial_guide_hometouch",
+				"initial_guide_ime_korean_layout"
+	]
+}
